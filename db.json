@@ -1,0 +1,42 @@
+{
+    "message": "",
+    "status": 200,
+    "data": [
+        {
+            "id_words": "1",
+            "image_cover": "https://cdn.concung.com/img/m/9_logo_vuong.png",
+            "auto_words": "Dr.Brown's",
+            "auto_mask_words": "drbrowns",
+            "api_page": "manufacturer",
+            "id_page": "9",
+            "is_brand": "1",
+            "date_add": "1262278800",
+            "date_upd": "1262278800",
+            "deleted": "0"
+        },
+        {
+            "id_words": "2",
+            "image_cover": "https://cdn.concung.com/img/m/22_logo_vuong.png",
+            "auto_words": "WinWinToys",
+            "auto_mask_words": "winwintoys",
+            "api_page": "manufacturer",
+            "id_page": "22",
+            "is_brand": "1",
+            "date_add": "1262278800",
+            "date_upd": "1262278800",
+            "deleted": "0"
+        },
+        {
+            "id_words": "3",
+            "image_cover": "https://cdn.concung.com/img/m/31_logo_vuong.png",
+            "auto_words": "FatzBaby",
+            "auto_mask_words": "fatzbaby",
+            "api_page": "manufacturer",
+            "id_page": "31",
+            "is_brand": "1",
+            "date_add": "1262278800",
+            "date_upd": "1262278800",
+            "deleted": "0"
+        }
+    ]
+}
